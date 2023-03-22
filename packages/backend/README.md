@@ -10,3 +10,9 @@ supabase で migration した上で環境変数に以下を設定してくださ
 SUPABASE_PROJECT_URL=<project-url>
 SUPABASE_PROJECT_SERVICE_KEY=<project-service-key>
 ```
+
+## run
+
+```
+$ yarn start
+```
