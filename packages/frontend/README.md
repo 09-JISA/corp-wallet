@@ -11,6 +11,8 @@ NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
 
 ## run
 
+フロントエンドのサーバを立てるには以下のコードを実行してください。
+
 ```
 $ yarn next
 ```

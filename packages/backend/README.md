@@ -13,6 +13,8 @@ SUPABASE_PROJECT_SERVICE_KEY=<project-service-key>
 
 ## run
 
+バックエンドのサーバを立てるには以下のコードを実行してください。
+
 ```
 $ yarn start
 ```
